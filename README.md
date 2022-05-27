@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ISA github stats](https://github-readme-stats.vercel.app/api?username=beeimp&count_private=true&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beeimp&show_icons=true&locale=en&layout=compact" alt="beeimp" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beeimp)](https://solved.ac/beeimp/)
+ 
+<br/>
+
+![ISA github stats](https://github-readme-stats.vercel.app/api?username=beeimp&count_private=true&show_icons=true&theme=radical)
+  
+<br/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beeimp&show_icons=true&locale=en&layout=compact" alt="beeimp" />
+  
 </div>
