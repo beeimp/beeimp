@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=header&text=BeeImp&fontSize=70
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=header&text=BeeImp&fontSize=70)
 
 ### Hi there 👋
 
