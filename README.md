@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beeimp)](https://solved.ac/beeimp/)
- 
+ -->
+  
 <br/>
 
 ![ISA github stats](https://github-readme-stats.vercel.app/api?username=beeimp&count_private=true&show_icons=true&theme=radical)
