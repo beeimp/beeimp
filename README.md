@@ -2,9 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=header&text=BeeImp&fontSize=70)
 
+<!--
+
 ### Hi there 👋
 
-<!--
 **beeimp/beeimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
