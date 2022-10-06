@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   
 <br/>
 
-![ISA github stats](https://github-readme-stats.vercel.app/api?username=beeimp&count_private=true&show_icons=true&theme=radical)
+![ISA github stats](https://github-readme-stats.vercel.app/api/?username=beeimp&count_private=true&show_icons=true&theme=radical)
   
 <br/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beeimp&show_icons=true&locale=en&layout=compact" alt="beeimp" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beeimp&show_icons=true&layout=compact&locale=en" alt="beeimp" />
   
 </div>
